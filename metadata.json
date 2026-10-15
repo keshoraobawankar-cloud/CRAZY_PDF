@@ -1,0 +1,6 @@
+{
+  "name": "Apex GSPA Habit Tracker & PDF Studio",
+  "description": "Sleek, modern GSPA (Goals, Skills, Performance, Actions) habit tracker and professional PDF designer for personal trainers and fitness clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
